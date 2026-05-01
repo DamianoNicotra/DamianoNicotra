@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @DamianoNicotra<br>- ✨ I'm currently working for Google<br>- 👀 I’m interested in software and videogame developing<br>- 🌱 I’m currently learning videogame developing<br>- 💞️ I’m looking to collaborate for Google<br>- 📫 How to reach me: Linkedin @DamianoNicotra
+- 👋 Hi, I’m @DamianoNicotra<br>- ✨ I'm currently working as freelancer<br>- 👀 I’m interested in cloud engineering<br>- 🌱 I’m currently learning Kubernetes<br>- 💞️ I’m looking for a job<br>- 📫 How to reach me: Linkedin @DamianoNicotra
 
 
 ## 🌐 Socials:
