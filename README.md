@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Damiano Nicotra
 
 **Cloud Engineer** with hands-on experience in **Azure, AWS, Terraform, Kubernetes**.  
-Italian native speaker, English C1. Currently based in Lithuania, **ready to relocate anywhere in the EU** for the right opportunity.
+Italian native speaker, English C1. Currently based in Stockholm.
 
 ## 💡 What makes me different
 - **Unique background**: I've worked in **KYC/AML (Western Union)** – I understand the compliance challenges that fintech and regulated industries face.
