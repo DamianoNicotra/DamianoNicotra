@@ -27,7 +27,7 @@ Italian native speaker, English C1. Currently based in Stockholm.
 ## 📫 Contact
 
 - **LinkedIn**: [linkedin.com/in/damiano-nicotra](https://linkedin.com/in/damiano-nicotra-482678123)
-- **Website**: [damianonicotra.cloud](https://d3v842a2utmm2.cloudfront.net)
+- **Website**: [damianonicotra.cloud](https://cv-cloud-engineer.vercel.app/)
 
 ## 🎯 Current Goal
 
